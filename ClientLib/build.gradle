@@ -116,7 +116,7 @@ dependencies {
     debugImplementation project(':Mavlink')
 //    sitlCompile project(':Mavlink')
 
-    implementation files('libs/Mavlink.jar')
+   // implementation files('libs/Mavlink.jar')
     implementation files('libs/d2xx.jar')
 
     androidTestCompile 'junit:junit:4.12'
